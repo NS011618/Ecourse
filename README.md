@@ -14,29 +14,9 @@ Deployed App link:
 [https://ashishgolla01.pythonanywhere.com/]
 
 
-
-## Features
-
-
-- Fully Responsive platform
-- reset password feature for both admin and voter
-- Uses CSRF tokens to prevent attacks 
-- Admin will be able to signup,Login
-- Admin can create the elections
-- Admin can edit election and if election is launched and ended admin cannot edit election
-- Admin can create a ballot of questions in an election
-- Admin can add options and delete options for a question in the election
-- Admin can delete the elections,questions,voters
-- Admin can register voters
-- Admin can launch election
-- Admin can Preview results while election is running
-- Elections administrator can set custom path to election
-- Voter can login to voting page and submit his response
-- Ending the election
-- We cannot delete election after ending election
-- We cannot edit questions after launching election
-- We cannot edit questions,voters,options etc... after ending an election
-
+##Feature scope
+-implement review,feedback,discounts
+-implement cart functionality with payment
 
 
 
