@@ -14,7 +14,7 @@ Deployed App link:
 [https://ashishgolla01.pythonanywhere.com/]
 
 
-##Feature scope
+## Feature scope
 - implement review,feedback,discounts
 - implement cart functionality with payment
 
